@@ -5,7 +5,7 @@ Converte formatos de arquivos audiovisuais utilizando o arrastar e soltar do mou
 Aqui foi utilizado para converter para MP3, mas você pode mudar o tipo de arquivo desejado (WAV, FLAC, AAC, OGG, AIFF, WMA e MIDI)
 
 Como utilizar:
-Selecione um ou mais arquivos e arraste e solte sobre o arquivo "x", então os arquivos serão criados na mesma pasta do arquivo de origem mas em formato MP3
+Selecione um ou mais arquivos e arraste e solte sobre o arquivo "everthing2MP3.vbs", então os arquivos serão criados na mesma pasta do arquivo de origem mas em formato MP3
 
 Pré-requisitos:
 1-Ter o FFMPEG instalado no computador (https://ffmpeg.org/)
